@@ -11,7 +11,6 @@ You are encouraged to use the provided naming convention for ease of review.
 
 // INSERT YOUR CODE HERE
 
-let modelName = document.getElementById("model-text");
 let duration = document.getElementById("duration-text");
 let modelText = document.getElementById("model-text").innerHTML;
 
